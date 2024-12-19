@@ -1,0 +1,414 @@
+t_uhrzeit: 22:51:46   22:51
+[TM] Formatted Date and Time: Samstag, 14.12.24 22:52
+p_uhrzeit: 22:52:00   22:52
+t_uhrzeit: 22:52:47   22:52
+[TM] Formatted Date and Time: Samstag, 14.12.24 22:53
+p_uhrzeit: 22:53:00   22:53
+t_uhrzeit: 22:53:47   22:53
+[TM] Formatted Date and Time: Samstag, 14.12.24 22:54
+p_uhrzeit: 22:54:00   22:54
+t_uhrzeit: 22:54:47   22:54
+[TM] Formatted Date and Time: Samstag, 14.12.24 22:55
+p_uhrzeit: 22:55:00   22:55
+t_uhrzeit: 22:55:47   22:55
+[TM] Formatted Date and Time: Samstag, 14.12.24 22:56
+p_uhrzeit: 22:56:00   22:56
+t_uhrzeit: 22:56:47   22:56
+[TM] Formatted Date and Time: Samstag, 14.12.24 22:57
+p_uhrzeit: 22:57:00   22:57
+t_uhrzeit: 22:57:47   22:57
+[TB] Firmware is already up to date
+[TM] Formatted Date and Time: Samstag, 14.12.24 22:58
+p_uhrzeit: 22:58:00   22:58
+t_uhrzeit: 22:58:47   22:58
+[TM] Formatted Date and Time: Samstag, 14.12.24 22:59
+p_uhrzeit: 22:59:00   22:59
+t_uhrzeit: 22:59:47   22:59
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:00
+p_uhrzeit: 23:00:00   23:0
+[MB] [23:00:00] Abfrage Radonwerte
+ 
+-----------------------------------------
+-------------------- ------------------
+ 
+[WL][  ] WLAN verbunden seit: 9 Minuten und 54 Sekunden 
+[WL][  ] Status is OK 
+Used RAM: 0.166 MB
+t_uhrzeit: 23:00:46   23:0
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:01
+p_uhrzeit: 23:01:00   23:1
+t_uhrzeit: 23:01:46   23:1
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:02
+p_uhrzeit: 23:02:00   23:2
+t_uhrzeit: 23:02:46   23:2
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:03
+p_uhrzeit: 23:03:00   23:3
+t_uhrzeit: 23:03:50   23:3
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:04
+p_uhrzeit: 23:04:00   23:4
+t_uhrzeit: 23:04:50   23:4
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:05
+p_uhrzeit: 23:05:00   23:5
+t_uhrzeit: 23:05:50   23:5
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:06
+p_uhrzeit: 23:06:00   23:6
+t_uhrzeit: 23:06:50   23:6
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:07
+p_uhrzeit: 23:07:00   23:7
+[TB] Firmware is already up to date
+t_uhrzeit: 23:07:50   23:7
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:08
+p_uhrzeit: 23:08:00   23:8
+t_uhrzeit: 23:08:50   23:8
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:09
+p_uhrzeit: 23:09:00   23:9
+t_uhrzeit: 23:09:50   23:9
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:10
+p_uhrzeit: 23:10:00   23:10
+[MB] [23:10:00] Abfrage Radonwerte
+ 
+[WL][  ] WLAN verbunden seit: 19 Minuten und 46 Sekunden 
+[WL][  ] Status is OK 
+Used RAM: 0.166 MB
+t_uhrzeit: 23:10:51   23:10
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:11
+p_uhrzeit: 23:11:00   23:11
+t_uhrzeit: 23:11:51   23:11
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:12
+p_uhrzeit: 23:12:00   23:12
+t_uhrzeit: 23:12:51   23:12
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:13
+p_uhrzeit: 23:13:00   23:13
+t_uhrzeit: 23:13:51   23:13
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:14
+p_uhrzeit: 23:14:00   23:14
+t_uhrzeit: 23:14:51   23:14
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:15
+p_uhrzeit: 23:15:00   23:15
+t_uhrzeit: 23:15:51   23:15
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:16
+p_uhrzeit: 23:16:00   23:16
+t_uhrzeit: 23:16:51   23:16
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:17
+p_uhrzeit: 23:17:00   23:17
+t_uhrzeit: 23:17:46   23:17
+[TB] Firmware is already up to date
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:18
+p_uhrzeit: 23:18:00   23:18
+t_uhrzeit: 23:18:50   23:18
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:19
+p_uhrzeit: 23:19:00   23:19
+t_uhrzeit: 23:19:50   23:19
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:20
+p_uhrzeit: 23:20:00   23:20
+[MB] [23:20:00] Abfrage Radonwerte
+ 
+[WL][  ] WLAN verbunden seit: 29 Minuten und 38 Sekunden 
+[WL][  ] Status is OK 
+Used RAM: 0.166 MB
+t_uhrzeit: 23:20:50   23:20
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:21
+p_uhrzeit: 23:21:00   23:21
+t_uhrzeit: 23:21:50   23:21
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:22
+p_uhrzeit: 23:22:00   23:22
+t_uhrzeit: 23:22:50   23:22
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:23
+p_uhrzeit: 23:23:00   23:23
+t_uhrzeit: 23:23:50   23:23
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:24
+p_uhrzeit: 23:24:00   23:24
+t_uhrzeit: 23:24:50   23:24
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:25
+p_uhrzeit: 23:25:00   23:25
+t_uhrzeit: 23:25:50   23:25
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:26
+p_uhrzeit: 23:26:00   23:26
+t_uhrzeit: 23:26:50   23:26
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:27
+p_uhrzeit: 23:27:00   23:27
+[TB] Firmware is already up to date
+t_uhrzeit: 23:27:50   23:27
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:28
+p_uhrzeit: 23:28:00   23:28
+t_uhrzeit: 23:28:50   23:28
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:29
+p_uhrzeit: 23:29:00   23:29
+t_uhrzeit: 23:29:50   23:29
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:30
+p_uhrzeit: 23:30:00   23:30
+[MB] [23:30:00] Abfrage Radonwerte
+ 
+[WL][  ] WLAN verbunden seit: 39 Minuten und 32 Sekunden 
+[WL][  ] Status is OK 
+Used RAM: 0.166 MB
+t_uhrzeit: 23:30:51   23:30
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:31
+p_uhrzeit: 23:31:00   23:31
+t_uhrzeit: 23:31:51   23:31
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:32
+p_uhrzeit: 23:32:00   23:32
+t_uhrzeit: 23:32:51   23:32
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:33
+p_uhrzeit: 23:33:00   23:33
+t_uhrzeit: 23:33:51   23:33
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:34
+p_uhrzeit: 23:34:00   23:34
+t_uhrzeit: 23:34:51   23:34
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:35
+p_uhrzeit: 23:35:00   23:35
+t_uhrzeit: 23:35:51   23:35
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:36
+p_uhrzeit: 23:36:00   23:36
+t_uhrzeit: 23:36:50   23:36
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:37
+p_uhrzeit: 23:37:00   23:37
+[TB] Firmware is already up to date
+t_uhrzeit: 23:37:51   23:37
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:38
+p_uhrzeit: 23:38:00   23:38
+t_uhrzeit: 23:38:51   23:38
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:39
+p_uhrzeit: 23:39:00   23:39
+t_uhrzeit: 23:39:51   23:39
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:40
+p_uhrzeit: 23:40:00   23:40
+[MB] [23:40:00] Abfrage Radonwerte
+ 
+[WL][  ] WLAN verbunden seit: 49 Minuten und 24 Sekunden 
+[WL][  ] Status is OK 
+Used RAM: 0.166 MB
+t_uhrzeit: 23:40:50   23:40
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:41
+p_uhrzeit: 23:41:00   23:41
+t_uhrzeit: 23:41:50   23:41
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:42
+p_uhrzeit: 23:42:00   23:42
+t_uhrzeit: 23:42:50   23:42
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:43
+p_uhrzeit: 23:43:00   23:43
+t_uhrzeit: 23:43:50   23:43
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:44
+p_uhrzeit: 23:44:00   23:44
+t_uhrzeit: 23:44:50   23:44
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:45
+p_uhrzeit: 23:45:00   23:45
+t_uhrzeit: 23:45:50   23:45
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:46
+p_uhrzeit: 23:46:00   23:46
+t_uhrzeit: 23:46:50   23:46
+[TM] Formatted Date and Time: Samstag, 14.12.24 23:47
+p_uhrzeit: 23:47:00   23:47
+[TM] NTP Update erfolgreich
+[IF][x] UTC :		1734216467 
+[IF][x] UTC time:		22:47:47 
+[IF][x] Lokale Zeit:	23:47:47 
+Debugging: Zeitkomponenten nach Erhalten der lokalen Zeit
+----set_year: 24 
+----set_month: 12 
+----set_date: 14 
+----set_dOW: 6 
+----set_hour: 23 
+----set_minute: 47 
+----set_second: 47 
+*************************************
+Server 1 Update Success: Server 1 Time: 22:47:47
+Server 2 Update Success: Server 2 Time: 22:47:48
+Server 3 Update Success: Server 3 Time: 22:47:48
+Server 1 Time: 22:47:47
+Server 2 Time: 22:47:48
+Server 3 Time: 22:47:48
+Delta1 (Server 1 - Server 2): 1
+Delta2 (Server 1 - Server 3): 1
+Delta3 (Server 2 - Server 3): 0
+Selected Time: 1734216468
+Selected Server(s): Server 2 & Server 3
+*************************************
+Selected Time: 1734216467
+Selected Server(s): Server 1
+_____________________________________
+[TM] read_clock_esp32: [TM] Timezone to: CET-1CEST,M3.5.0,M10.5.0/3[TM] Timezone = 14-Dec-24, 23:47:47
+[TM] Timezone SET...
+[TM] read_clock_esp32: [TM] read_clock_esp32: t_uhrzeit: 23:47:46   23:47
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:48
+p_uhrzeit: 23:48:02   23:48
+t_uhrzeit: 23:48:49   23:48
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:49
+p_uhrzeit: 23:49:04   23:49
+t_uhrzeit: 23:49:49   23:49
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:50
+p_uhrzeit: 23:50:04   23:50
+[MB] [23:50:04] Abfrage Radonwerte
+t_uhrzeit: 23:50:51   23:50
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:51
+p_uhrzeit: 23:51:01   23:51
+t_uhrzeit: 23:51:51   23:51
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:52
+p_uhrzeit: 23:52:01   23:52
+t_uhrzeit: 23:52:51   23:52
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:53
+p_uhrzeit: 23:53:06   23:53
+t_uhrzeit: 23:53:51   23:53
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:54
+p_uhrzeit: 23:54:01   23:54
+t_uhrzeit: 23:54:51   23:54
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:55
+p_uhrzeit: 23:55:01   23:55
+t_uhrzeit: 23:55:52   23:55
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:56
+p_uhrzeit: 23:56:02   23:56
+t_uhrzeit: 23:56:52   23:56
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:57
+p_uhrzeit: 23:57:02   23:57
+[TB] Preparing for OTA firmware updates failed, attributes might be NULL
+[TB] Subscribing the given topic failed
+[IF] Failed to request shared 5 attributes
+t_uhrzeit: 23:57:52   23:57
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:58
+p_uhrzeit: 23:58:07   23:58
+t_uhrzeit: 23:58:52   23:58
+[TM] Formatted Date and Time: Donnerstag, 14.12.24 23:59
+p_uhrzeit: 23:59:02   23:59
+t_uhrzeit: 23:59:52   23:59
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:00
+p_uhrzeit: 00:00:02   0:0
+[MB] [00:00:02] Abfrage Radonwerte
+ 
+-----------------------------------------
+-------------------- ------------------
+t_uhrzeit: 00:00:54   0:0
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:01
+p_uhrzeit: 00:01:04   0:1
+t_uhrzeit: 00:01:55   0:1
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:02
+p_uhrzeit: 00:02:00   0:2
+t_uhrzeit: 00:02:59   0:2
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:03
+p_uhrzeit: 00:03:05   0:3
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:04
+p_uhrzeit: 00:04:00   0:4
+t_uhrzeit: 00:04:00   0:4
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:05
+p_uhrzeit: 00:05:00   0:5
+t_uhrzeit: 00:05:00   0:5
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:06
+p_uhrzeit: 00:06:00   0:6
+t_uhrzeit: 00:06:00   0:6
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:07
+p_uhrzeit: 00:07:00   0:7
+t_uhrzeit: 00:07:00   0:7
+ 
+[WL][  ] WLAN verbunden seit: 1 Stunden und 4 Minuten 
+[WL][  ] Status is OK 
+[TB] Preparing for OTA firmware updates failed, attributes might be NULL
+[TB] Subscribing the given topic failed
+[IF] Failed to request shared 5 attributes
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:08
+p_uhrzeit: 00:08:03   0:8
+t_uhrzeit: 00:08:03   0:8
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:09
+p_uhrzeit: 00:09:03   0:9
+t_uhrzeit: 00:09:03   0:9
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:10
+p_uhrzeit: 00:10:03   0:10
+[MB] [00:10:03] Abfrage Radonwerte
+t_uhrzeit: 00:10:03   0:10
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:11
+p_uhrzeit: 00:11:00   0:11
+t_uhrzeit: 00:11:05   0:11
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:12
+p_uhrzeit: 00:12:00   0:12
+t_uhrzeit: 00:12:05   0:12
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:13
+p_uhrzeit: 00:13:00   0:13
+t_uhrzeit: 00:13:05   0:13
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:14
+p_uhrzeit: 00:14:00   0:14
+t_uhrzeit: 00:14:05   0:14
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:15
+p_uhrzeit: 00:15:00   0:15
+t_uhrzeit: 00:15:05   0:15
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:16
+p_uhrzeit: 00:16:01   0:16
+t_uhrzeit: 00:16:06   0:16
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:17
+p_uhrzeit: 00:17:01   0:17
+t_uhrzeit: 00:17:06   0:17
+[TB] Preparing for OTA firmware updates failed, attributes might be NULL
+[TB] Subscribing the given topic failed
+[IF] Failed to request shared 5 attributes
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:18
+p_uhrzeit: 00:18:01   0:18
+t_uhrzeit: 00:18:06   0:18
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:19
+p_uhrzeit: 00:19:01   0:19
+t_uhrzeit: 00:19:06   0:19
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:20
+p_uhrzeit: 00:20:01   0:20
+[MB] [00:20:01] Abfrage Radonwerte
+t_uhrzeit: 00:20:06   0:20
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:21
+p_uhrzeit: 00:21:03   0:21
+t_uhrzeit: 00:21:08   0:21
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:22
+p_uhrzeit: 00:22:03   0:22
+t_uhrzeit: 00:22:08   0:22
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:23
+p_uhrzeit: 00:23:04   0:23
+t_uhrzeit: 00:23:09   0:23
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:24
+p_uhrzeit: 00:24:04   0:24
+t_uhrzeit: 00:24:09   0:24
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:25
+p_uhrzeit: 00:25:04   0:25
+t_uhrzeit: 00:25:09   0:25
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:26
+p_uhrzeit: 00:26:04   0:26
+t_uhrzeit: 00:26:09   0:26
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:27
+p_uhrzeit: 00:27:04   0:27
+t_uhrzeit: 00:27:09   0:27
+[TB] Preparing for OTA firmware updates failed, attributes might be NULL
+[TB] Subscribing the given topic failed
+[IF] Failed to request shared 5 attributes
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:28
+p_uhrzeit: 00:28:00   0:28
+t_uhrzeit: 00:28:10   0:28
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:29
+p_uhrzeit: 00:29:00   0:29
+t_uhrzeit: 00:29:10   0:29
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:30
+p_uhrzeit: 00:30:05   0:30
+[MB] [00:30:05] Abfrage Radonwerte
+t_uhrzeit: 00:30:10   0:30
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:31
+p_uhrzeit: 00:31:02   0:31
+t_uhrzeit: 00:31:12   0:31
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:32
+p_uhrzeit: 00:32:02   0:32
+t_uhrzeit: 00:32:12   0:32
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:33
+p_uhrzeit: 00:33:02   0:33
+t_uhrzeit: 00:33:12   0:33
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:34
+p_uhrzeit: 00:34:02   0:34
+t_uhrzeit: 00:34:12   0:34
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:35
+p_uhrzeit: 00:35:08   0:35
+t_uhrzeit: 00:35:13   0:35
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:36
+p_uhrzeit: 00:36:03   0:36
+t_uhrzeit: 00:36:13   0:36
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:37
+p_uhrzeit: 00:37:03   0:37
+t_uhrzeit: 00:37:13   0:37
+[TB] Preparing for OTA firmware updates failed, attributes might be NULL
+[TB] Subscribing the given topic failed
+[IF] Failed to request shared 5 attributes
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:38
+p_uhrzeit: 00:38:03   0:38
+t_uhrzeit: 00:38:13   0:38
+[TM] Formatted Date and Time: Donnerstag, 15.12.24 00:39
+p_uhrzeit: 00:39:03   0:39
+
+

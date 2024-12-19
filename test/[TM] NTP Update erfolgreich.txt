@@ -1,0 +1,50 @@
+[TM] NTP Update erfolgreich
+[IF][x] UTC :		1733834028 
+[IF][x] UTC time:		12:33:48 
+[IF][x] Lokale Zeit:	13:33:48 
+Debugging: Zeitkomponenten nach Erhalten der lokalen Zeit
+----set_year: 24 
+----set_month: 12 
+----set_date: 10 
+----set_dOW: 2 
+----set_hour: 13 
+----set_minute: 33 
+----set_second: 48 
+*************************************
+Server 1 Update Success: Server 1 Time: 12:33:48
+Server 2 Update Success: Server 2 Time: 12:33:48
+Server 3 Update Success: Server 3 Time: 12:33:48
+Server 1 Time: 12:33:48
+Server 2 Time: 12:33:48
+Server 3 Time: 12:33:48
+Delta1 (Server 1 - Server 2): 0
+Delta2 (Server 1 - Server 3): 0
+Delta3 (Server 2 - Server 3): 0
+Selected Time: 1733834028
+Selected Server(s): Server 1 & Server 2
+*************************************
+Selected Time: 1733834028
+Selected Server(s): Server 1
+_____________________________________
+[TM] Es ist Winter - set | MEZ
+g_Set_mesz d: 1
+------------------
+[TM] Load Timezone
+[TM] Timezone to: CET-1CEST,M3.5.0,M10.5.0/3[TM] Timezone = 10-Dec-24, 13:33:48
+[TM] Timezone SET...
+[TM] Uhrzeit wird von RTC übernommen und gestellt
+[TM] Aktuell ist Winter | MEZ
+[TM] Set ESP Offest clock
+[TM] read_clock_esp32: [TM] ESP time 1733834027
+RAM_Prozent: 66.57
+currentyear 
+-30currentYearTwoDigits 
+226[IF] Firwmare Update...
+Firmware Status:1
+[IF] Requesting shared 5 attributes...
+currentyear 
+-30currentYearTwoDigits 
+226currentyear 
+-30currentYearTwoDigits 
+226Aktualisierte Zeit: 13:34:05  10.12.24  24.12.10
+p_date_DDMMYY     : 10.12.24

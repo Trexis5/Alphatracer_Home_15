@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<name>RadonTracer</name>
+		<registers>
+			<register>
+				<description>Radon live</description>
+				<address>0014</address>
+				<functionCode>03</functionCode>
+				<words>2</words>
+				<wordOrder>AB</wordOrder>
+				<dataType>INT_UNSIGNED</dataType>
+				<unit>Bq/m³</unit>
+				<factor>1</factor>
+				<measuringValueType>METER_READING</measuringValueType>
+			</register>
+			<register>
+				<description>Radon 24h</description>
+				<address>0016</address>
+				<functionCode>03</functionCode>
+				<words>2</words>
+				<wordOrder>AB</wordOrder>
+				<dataType>INT_UNSIGNED</dataType>
+				<unit>Bq/m³</unit>
+				<factor>1</factor>
+				<measuringValueType>METER_READING</measuringValueType>
+			</register>
+			<register>
+				<description>Radon long</description>
+				<address>0018</address>
+				<functionCode>03</functionCode>
+				<words>2</words>
+				<wordOrder>AB</wordOrder>
+				<dataType>INT_UNSIGNED</dataType>
+				<unit>Bq/m³</unit>
+				<factor>1</factor>
+				<measuringValueType>METER_READING</measuringValueType>
+			</register>
+		</registers>
+</root>
